@@ -2,6 +2,7 @@
    "projects": {
       "update": "The plugin version you are using is outdated. Link to the new version has been copied.",
       "link": "https://github.com/FFJ1/Roblox-Exploits/blob/main/Plugins.md",
+      "discord": "https://discord.gg/JqeYcfmmh9",
       "doorsevent": {
          "status": true,
          "version": 2.6
